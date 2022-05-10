@@ -42,7 +42,7 @@ Você pode visualizar o layout do projeto original utilize [esse link](https://w
 Next Level Week é a 8ª edição do evento promovido pela [Rocketseat](https://rocketseat.com.br) para a comunidade de desenvolvedores.
 Nesta edição, na trilha impulse, foi desenvolvido um widget que pode ser aplicado em diversos projetos para coletar feedbacks sobre o sistema dos usuários.
 
-A trilha foi separada em três ambientes (Back-End, Front-End e Mobile), desenvolvidos com a stack React + Typescript.
+A trilha foi separada em três ambientes (Back-End, Front-End e Mobile), desenvolvidos com a stack Javascript + Typescript.
 
 As aulas da trilha impulse foram ministradas por [Diego Fernandes](https://github.com/diego3g) e [Rodrigo](https://github.com/rodrigorgtic).
 
@@ -53,6 +53,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [Prisma](https://www.prisma.io/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript](https://www.javascript.com/)
 - [Styled-Components](https://styled-components.com/)
 - [Tailwind](https://tailwindcss.com/)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
