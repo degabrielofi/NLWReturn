@@ -3,7 +3,7 @@
   </p>
   
   <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/degabrielofi/NLW---Return?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/degabrielofi/NLWReturn?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/degabrielofi/NLWReturn?color=56BEB8">
 
