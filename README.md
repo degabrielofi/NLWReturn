@@ -3,11 +3,11 @@
   </p>
   
   <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/degabrielofi/NLW-Return?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/degabrielofi/NLWReturn?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/degabrielofi/NLW-Return?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/degabrielofi/NLWReturn?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/degabrielofi/NLW-Return?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/degabrielofi/NLWReturn?color=56BEB8">
 
 </p>
 
@@ -104,7 +104,7 @@ $ npm run start
  
 ```
 
-<h5>Note: O projeto final da [Rocketseat](https://rocketseat.com.br) tinha a parte de Mobile também disponivel que foi feita com React-Native, mas não conseguir realizar a o processo de desenvolvimento da area já que na hora de baixar algumas dependências necessárias meu PC não aguentava e tava tela azul, mas para frente tentarei atualizar isso, e subir a versão Mobile. Grato! </h5>
+<h5>Note: O projeto final da Rocketseat 🚀 tinha a parte de Mobile também disponivel que foi feita com React-Native, mas não conseguir realizar a o processo de desenvolvimento da tecnologia, já que na hora de baixar algumas dependências necessárias meu PC não aguentava e tava tela azul, mas para frente tentarei atualizar isso, e subir a versão Mobile. Grato! </h5>
 
 ## 
 
