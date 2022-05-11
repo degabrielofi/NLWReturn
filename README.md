@@ -82,7 +82,7 @@ $ npm run start
  
 ```
 
-## 🌐 Para iniciarlizar a parte do Back-End utilize o comando abaixo:
+## 🗃️ Para iniciarlizar a parte do Back-End utilize o comando abaixo:
 ```bash
 
 #Clonando o repositório do Github: 
