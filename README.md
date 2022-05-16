@@ -1,4 +1,4 @@
-s<p align="center">
+  <p align="center">
   <img alt="DeGabriel_Store" src="./GitHub/Icon NLWReturn.svg" width="30%"> 
   </p>
   
